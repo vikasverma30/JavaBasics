@@ -1,0 +1,3 @@
+This is a simple project, where you have to add you own folders with Java Programming language. You can add anything valuable to this repo. Your contribution will be considered valid, only if you add some java code to this repo.
+
+You can add any code. I have added a folder for example, and you can use this folder as a reference to create your own folders.
